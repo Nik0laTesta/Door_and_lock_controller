@@ -34,3 +34,8 @@ Arduino sketch for controlling an automatic door with an electronic lock using t
 
 ## To Do
 - Only trigger on signal release (button held = no action, trigger fires on release)
+
+
+Be carefull when playing with Electricity Kids!
+
+![Elec](Electricity is dangerous.png)
