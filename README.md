@@ -37,5 +37,6 @@ Arduino sketch for controlling an automatic door with an electronic lock using t
 
 
 Be carefull when playing with Electricity Kids!
+I was distracted for a second and made a bridge on the wrong contacts shorting 230v, luckily the breaker stepped in. :p 
 
 ![Elec](Electricity_is_dangerous.png)
