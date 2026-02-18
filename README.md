@@ -38,4 +38,4 @@ Arduino sketch for controlling an automatic door with an electronic lock using t
 
 Be carefull when playing with Electricity Kids!
 
-![Elec](Electricity is dangerous.png)
+![Elec](Electricity_is_dangerous.png)
